@@ -1,0 +1,114 @@
+body{
+	background: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Wide-Batman-Arkham-Knight-Backgrounds.jpg") center top fixed;
+	
+}
+
+#wrapper{
+	margin-right: auto;
+	margin-left:  auto;
+	height: auto;
+	min-width: 600px;
+	width:70%;
+	opacity:0.9;
+}
+#header{
+	height:20%;
+	min-height:200px;
+	text-align:center;
+	background-color:#b3b3b3;
+}
+#navigation{
+	height: 10%;
+	min-height:100px;
+	background-color:#5e5e5e;
+	text-align:center;
+}
+#contentBody{
+	min-height:780px;
+	overflow: auto;
+	background:#b3b3b3;
+	text-align:center;
+}
+#footer{
+	text-align:center;
+	height:15%;
+	min-height:150px;
+	font-size:25px;
+	font-weight:bold;
+	clear:both;
+	padding:10px;
+	background-color:#5e5e5e;
+}
+
+
+.iconRight{
+	margin-right:10px;
+	margin-top:10px;
+	width:80px;
+	height:80px;
+	float:right;
+}
+.iconLeft{
+	margin-top:10px;
+	margin-left:10px;
+	width:80px;
+	height:80px;
+	float:left;
+}
+
+
+.firsth, .gameh, .sech{
+	font-family :Times, Times New Roman, serif;
+}
+.firsth{
+	color:black;
+	font-size:70px;
+	font-weight:bold;
+}
+.himage{
+	position:relative;
+	bottom:15px;
+}
+.sech{
+	color:#e6e6e6;
+	font-size:25px;
+	font-weight:bold;
+	position:relative;
+	top:2px;
+}
+
+
+
+
+a:link, a:visited {
+    background-color:white;
+	color: black;
+	padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color:#cccccc;
+
+}
+
+#goToTop{
+	position:fixed;
+	bottom:20px;
+	right:10px;
+}
+
+
+
+
+.logo{
+	height: 180px;
+	width:320px;
+}
+
+.bImage{
+	height:350px;
+	width:235px;
+}

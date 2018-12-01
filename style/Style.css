@@ -1,0 +1,149 @@
+
+body{
+	/*background-color:#212635;*/
+	background: url("https://www.pixelstalk.net/wp-content/uploads/2016/08/Wide-Batman-Arkham-Knight-Backgrounds.jpg") center top fixed;
+	
+}
+
+#wrapper{
+	margin-right: auto;
+	margin-left:  auto;
+	height: auto;
+	min-width: 600px;
+	width:70%;
+	opacity:0.9;
+}
+#header{
+	height:20%;
+	min-height:200px;
+	text-align:center;
+	background-color:#b3b3b3;
+}
+#navigation{
+	height: 10%;
+	min-height:100px;
+	background-color:#5e5e5e;
+	text-align:center;
+}
+#introduction{
+	min-height:780px;
+	overflow: auto;
+	float:left;
+	width:30%;
+	background-color:#8c8c8c;
+	text-align:center;
+}
+#contentBody{
+	min-height:780px;
+	overflow: auto;
+	float:right;
+	background:#b3b3b3;
+	text-align:center;
+}
+#footer{
+	text-align:center;
+	height:15%;
+	min-height:150px;
+	font-size:25px;
+	font-weight:bold;
+	clear:both;
+	padding:10px;
+	background-color:#5e5e5e;
+}
+
+#introBox{
+	margin: 16% 2% 0% 2%;
+	border: none 2px solid; 
+	padding-left:10px;
+	padding-right:5px;
+	font-size:25px;
+	font-weight:bold;
+	text-align:left;
+}
+.list{
+	font-size:26px;
+	font-weight:bold;
+	text-align:left;
+}
+.iconRight{
+	margin-right:10px;
+	margin-top:10px;
+	width:80px;
+	height:80px;
+	float:right;
+}
+.iconLeft{
+	margin-top:10px;
+	margin-left:10px;
+	width:80px;
+	height:80px;
+	float:left;
+}
+
+
+.firsth, .gameh, .sech{
+	font-family :Times, Times New Roman, serif;
+}
+.firsth{
+	color:black;
+	font-size:70px;
+	font-weight:bold;
+}
+.gameh{
+	color:black;
+	font-size:35px;
+	font-weight:bold;
+}
+.himage{
+	position:relative;
+	bottom:15px;
+}
+.sech{
+	color:#e6e6e6;
+	font-size:25px;
+	font-weight:bold;
+	position:relative;
+	top:2px;
+}
+
+
+.box{
+	margin: 0% 5% 0% 35%;
+	border: black 2px solid; 
+	font-size:25px;
+}
+
+
+
+
+a:link, a:visited {
+    background-color:#b3b3b3;
+	color: black;
+	padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+a:hover {
+    background-color:#cccccc;
+	padding: 13px 20px;
+}
+
+
+.icon{
+	width:150px;
+	height:100px;
+}
+.bp{
+	color:blue;
+}
+.sd{
+	color:orange;
+}
+.bj{
+	color:purple;
+}
+.bb{
+	color:green;
+}
